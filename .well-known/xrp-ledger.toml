@@ -1,6 +1,12 @@
+# See https://xrpl.org/xrp-ledger-toml.html
+#
+# This was taken from:
+# https://github.com/XRPLF/xrpl-dev-portal/blob/c8457d5726c4815c5ca6d1e8d7b22785a051a2e8/content/references/xrp-ledger-toml.md
+#
+#
 # Example xrp-ledger.toml file. These contents should not be considered
 # authoritative for any real entity or business.
-# Note: all fields and all sections are optional.
+# NOTE: all fields and all sections are optional.
 
 [METADATA]
 modified = 2019-01-22T00:00:00.000Z
