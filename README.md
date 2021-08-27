@@ -1,7 +1,7 @@
 # gh-pages-serve-xrp-ledger.toml
 Use GitHub pages to serve an [`xrp-ledger.toml`][xrp-ledger.toml]
 
-1. Use this repository template and create a new repo
+1. Use this repository template and [generate a new repo](../../generate).
 2. Edit [`.well-known/xrp-ledger.toml`](.well-known/xrp-ledger.toml) - use [XRPL.org's][xrp-ledger.toml] guide!
 3. Enable Pages with your new repository, go to [settings/pages](../../settings/pages)
   - ![image](https://user-images.githubusercontent.com/134478/131184187-74bc4cac-2005-4145-ae77-211157691ca5.png)
